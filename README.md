@@ -12,6 +12,3 @@ If you're lost, here are some other repos to go to instead (NONE OF THE REPOS LI
 [Mari0](https://github.com/Stabyourself/mari0) - Super Mario Bros. femade in Love2D with Portals
 
 [Funkin'](https://github.com/FunkinCrew/Funkin) - Rythym game made in HaxeFlixel
-
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
